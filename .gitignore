@@ -1,0 +1,37 @@
+firebase-debug.log
+.DS_Store
+.vscode/
+.idx/
+/node_modules
+/dist
+/build
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Firebase
+database-debug.log
+storage-debug.log
+emulators-ui-debug.log
+
+# Logs
+logs
+*.log
+*.zip
+*.gz
+*.tar
+*.tgz
+*.rar
+
+# Runtime data
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.DS_Store
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
